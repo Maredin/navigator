@@ -1,9 +1,10 @@
 * {
     user-select: none;
     box-sizing: border-box;
+    font-size: 14px;
 }
 .box {
-    width: 310px;
+    width: 300px;
     border: 1px solid silver;
     border-radius: 10px;
     margin: 0 auto;
@@ -26,7 +27,7 @@
     justify-content: center;
 }
 .box__column {
-    width: 155px;
+    width: 140px;
     text-align: center;
     padding: 10px;
 }
