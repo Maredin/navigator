@@ -8,7 +8,7 @@
     border: 1px solid silver;
     border-radius: 10px;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .navigation {
     display: flex;
@@ -27,7 +27,7 @@
     justify-content: center;
 }
 .box__column {
-    width: 140px;
+    width: 150px;
     text-align: center;
     padding: 10px;
 }
