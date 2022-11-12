@@ -12,7 +12,6 @@ request.send();
 
 request.onload = function() {
   user = request.response;
-  console.log(user);
   nameFirst(user);
 }
 
